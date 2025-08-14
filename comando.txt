@@ -1,0 +1,4 @@
+criado o arquivo index.txt com touch file_name.ext . Este texo foi adicionado usando: echo 'strings_text entre aspas duplas' > (uma para subscrever) >> duas para inserir abaixo  + file_name.ext
+Linha 1
+Linha 2
+Linha 3
