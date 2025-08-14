@@ -2,7 +2,8 @@
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
       <H1> VERSIONAMENTO - Nesta branch(new-features) o arquivo ainda e original </H1>
-      <H1> GIT - Adicionado novo h1 com GIT </H1>
+
+      <H1> GIT - Adicionando texto "GIT" na tag h1: novo h1 com GIT </H1>
 
 
 </BODY>
