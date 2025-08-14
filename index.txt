@@ -1,9 +1,16 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
+	<H2><<<<<<< HEAD  -- Marcação inserida pelo conflito do git</H2>
+      <H1> VERSIONAMENTO - Nesta branch(new-features) o arquivo ainda e original </H1>
+
+      <H1> GIT - Adicionando texto "GIT" na tag h1: novo h1 com GIT </H1>
+
+	<H3>=======  -- Marcação inserida pelo conflito do git</H3>
       <H1> TITULO 1 - SERÁ APAGADO E INCLUÍDO VERSIONAMENTO ABAIXO </H1>
 
       <H1> VERSIONAMENTO </H1>
+	<H4> >>>>>>>> main -- Marcação inserida pelo conflito do git </H4>
 
 </BODY>
 </HTML>
